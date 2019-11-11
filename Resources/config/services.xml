@@ -4,6 +4,6 @@
     xsi:schemaLocation="http://symfony.com/schema/dic/services
         http://symfony.com/schema/dic/services/services-1.0.xsd">
     <services>
-        <service id="Rareza\PaginatorBundle\Utils\Paginator" />
+        <service id="Rareza\PaginatorBundle\Util\Paginator" />
     </services>
 </container>

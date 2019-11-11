@@ -1,6 +1,6 @@
 <?php
 
-namespace Rareza\PaginatorBundle\Utils;
+namespace Rareza\PaginatorBundle\Util;
 
 class Paginator
 {
