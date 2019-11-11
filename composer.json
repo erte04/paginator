@@ -1,0 +1,16 @@
+{
+  "name": "rareza/paginator",
+  "license": "MIT",
+  "type": "symfony-bundle",
+  "description": "Rareza Paginator Bundle",
+  "autoload": {
+    "psr-4": {
+      "Rareza\\PaginatorBundle": ""
+    }
+  },
+  "require": {
+    "php": ">=7.1",
+    "symfony/symfony": "4.*"
+  },
+  "minimum-stability": "stable"
+}
