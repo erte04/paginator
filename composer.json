@@ -5,7 +5,7 @@
   "description": "Rareza Paginator Bundle",
   "autoload": {
     "psr-4": {
-      "Rareza\\PaginatorBundle": ""
+      "Rareza\\PaginatorBundle\\": ""
     }
   },
   "require": {
